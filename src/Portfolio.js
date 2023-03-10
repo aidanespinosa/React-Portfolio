@@ -1,6 +1,7 @@
 import React from "react";
 import Project from "./Project.js";
 import "./Project.css";
+import "./image.png";
 
 function Portfolio() {
   return (
@@ -25,8 +26,8 @@ function Portfolio() {
         title="Community Compass"
         description="A neighboorhood directory."
         technologies="React, GraphQl, MongooseDB"
-        imageUrl="https://example.com/project3-image.jpg"
-        deployedLink={"https://github.com/username/project3"}
+        imageUrl="C:\Users\Aidan's Laptop\bootcamp\React-Portfolio\src\image.png"
+        deployedLink={"https://safezone.herokuapp.com/"}
         githubLink={"https://github.com/aidanespinosa/Community-Compass"}
       />
     </div>
